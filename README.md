@@ -1,1 +1,1 @@
-Simple Java Security
+Simple Java Security Testing

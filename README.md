@@ -1,1 +1,1 @@
-Simple Java Virus Scanning
+Simple Java Security
